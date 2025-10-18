@@ -1,2 +1,2 @@
-from sparsh import aprov
-aprov()
+from bgraph import main
+main()
